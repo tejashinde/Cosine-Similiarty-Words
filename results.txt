@@ -1,0 +1,16 @@
+Name : Tejas Ashok Shinde
+Github Gist URL : https://gist.github.com/tejashinde/37b6cb8e85d9f2570835e1d37b575819
+
+RESULTS observed:
+
+Similar words to  wikipedia  : 
+[('encyclopedia', 0.50719357), ('wikimedia', 0.50395596), ('wiki', 0.49234113), ('facebook', 0.4685736), ('blog', 0.4539109), ('conservapedia', 0.45230374), ('youtube', 0.45151135), ('britannica', 0.4490937), ('websites', 0.44877538), ('blogs', 0.43505958)] 
+
+Similar words to  software  : 
+[('computer', 0.7334418), ('microsoft', 0.694677), ('hardware', 0.65773684), ('computers', 0.62335384), ('internet', 0.5980143), ('server', 0.5955029), ('pc', 0.5928729), ('users', 0.5790901), ('systems', 0.5759311), ('desktop', 0.5759283)] 
+
+Similar words to  jupiter  : 
+[('moons', 0.6318029), ('planets', 0.58829653), ('uranus', 0.57549953), ('planet', 0.5631541), ('saturn', 0.5374636), ('neptune', 0.52758086), ('mars', 0.52477854), ('comet', 0.52384466), ('io', 0.5187608), ('orbits', 0.5158472)] 
+
+Similar words to  wise  : 
+[('foolish', 0.5345337), ('prudent', 0.5064718), ('smart', 0.46342793), ('shrewd', 0.45873114), ('advice', 0.45549625), ('good', 0.4534309), ('savvy', 0.4432034), ('intelligent', 0.43492997), ('sensible', 0.43278927), ('thoughtful', 0.43142617)] 
